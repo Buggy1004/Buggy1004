@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buggy1004&label=Profile%20views&color=0e75b6&style=flat" alt="buggy1004" /> </p>
 
-- 🔭 I’m currently working on **Cotton Leaf Disease**
+- 🔭 I’m currently working on **Cotton Leaf Disease Predection and Analysis using Machine Learning**
 
 - 🌱 I’m currently learning **LLM's, Transformers**
 
